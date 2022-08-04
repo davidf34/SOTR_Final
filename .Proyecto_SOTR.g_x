@@ -1,0 +1,67 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/ClockPin1.h" FileDate="2022-05-17, 12:50:09" FileAge="1652809809240" FileType="45637" CompNumb="67" />
+      <File Name="Generated_Code/LCD1.c" FileDate="2022-05-21, 10:28:04" FileAge="1653146884408" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/Led_button.h" FileDate="2022-05-17, 12:17:16" FileAge="1652807836338" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/ClockPin1.c" FileDate="2022-05-17, 12:50:09" FileAge="1652809809264" FileType="45637" CompNumb="67" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2022-05-17, 12:17:15" FileAge="1652807835701" FileType="45637" CompNumb="4" />
+      <File Name="Documentation/Proyecto_SOTR.txt" FileDate="2022-05-23, 15:10:28" FileAge="1653336628746" FileType="3072" />
+      <File Name="Generated_Code/Led_button.c" FileDate="2022-04-08, 18:39:43" FileAge="1649461183298" FileType="45637" CompNumb="26" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2022-05-23, 15:07:51" FileAge="1653336471726" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/WAIT1config.h" FileDate="2022-05-20, 20:19:06" FileAge="1653095946669" FileType="45637" CompNumb="51" />
+      <File Name="Documentation/Proyecto_SOTR_Settings.xml" FileDate="2022-05-23, 15:10:28" FileAge="1653336628733" FileType="3072" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2022-05-17, 12:17:15" FileAge="1652807835857" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2022-05-17, 12:17:15" FileAge="1652807835805" FileType="45637" />
+      <File Name="Generated_Code/DataPin1.h" FileDate="2022-05-17, 12:50:09" FileAge="1652809809246" FileType="45637" CompNumb="66" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2022-05-17, 12:17:16" FileAge="1652807836000" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2022-05-17, 12:17:15" FileAge="1652807835985" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2022-03-30, 16:16:43" FileAge="1648675003292" FileType="45637" />
+      <File Name="Generated_Code/DataPin1.c" FileDate="2022-05-17, 12:50:09" FileAge="1652809809256" FileType="45637" CompNumb="66" />
+      <File Name="Generated_Code/Led2.h" FileDate="2022-05-17, 12:17:16" FileAge="1652807836201" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/PWM.h" FileDate="2022-05-17, 12:17:16" FileAge="1652807836234" FileType="45637" CompNumb="29" />
+      <File Name="Generated_Code/Led2.c" FileDate="2022-04-08, 20:32:31" FileAge="1649467951547" FileType="45637" CompNumb="30" />
+      <File Name="Generated_Code/Button_1.h" FileDate="2022-05-17, 12:17:16" FileAge="1652807836155" FileType="45637" CompNumb="37" />
+      <File Name="Sources/Events.h" FileDate="2022-05-21, 10:26:37" FileAge="1653146797645" FileType="131328" />
+      <File Name="Generated_Code/PWM.c" FileDate="2022-04-09, 09:54:00" FileAge="1649516040674" FileType="45637" CompNumb="29" />
+      <File Name="Generated_Code/MCUC1.h" FileDate="2022-05-20, 20:19:06" FileAge="1653095946677" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/Led1.h" FileDate="2022-05-17, 12:17:16" FileAge="1652807836387" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Button_1.c" FileDate="2022-04-25, 16:24:09" FileAge="1650921849456" FileType="45637" CompNumb="37" />
+      <File Name="Sources/Events.c" FileDate="2022-05-17, 18:37:35" FileAge="1652830655253" FileType="131328" />
+      <File Name="Generated_Code/MCUC1.c" FileDate="2022-05-20, 20:10:52" FileAge="1653095452628" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2022-05-23, 15:07:51" FileAge="1653336471726" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Led1.c" FileDate="2022-04-02, 13:03:18" FileAge="1648922598163" FileType="45637" CompNumb="11" />
+      <File Name="Generated_Code/Button.h" FileDate="2022-05-17, 12:17:16" FileAge="1652807836287" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/ADC1.h" FileDate="2022-05-23, 15:10:28" FileAge="1653336628542" FileType="45637" CompNumb="28" />
+      <File Name="Documentation/Proyecto_SOTR_SIGNALS.txt" FileDate="2022-05-23, 15:10:28" FileAge="1653336628690" FileType="3072" />
+      <File Name="Generated_Code/WAIT1.h" FileDate="2022-05-20, 20:19:06" FileAge="1653095946673" FileType="45637" CompNumb="51" />
+      <File Name="Generated_Code/Button.c" FileDate="2022-04-08, 18:36:26" FileAge="1649460986744" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/ADC1.c" FileDate="2022-05-23, 15:10:28" FileAge="1653336628545" FileType="45637" CompNumb="28" />
+      <File Name="Generated_Code/WAIT1.c" FileDate="2022-05-20, 20:10:52" FileAge="1653095452621" FileType="45637" CompNumb="51" />
+      <File Name="Generated_Code/GI2C1config.h" FileDate="2022-05-20, 20:19:06" FileAge="1653095946645" FileType="45637" CompNumb="54" />
+      <File Name="Generated_Code/LCD1config.h" FileDate="2022-05-21, 10:26:37" FileAge="1653146797447" FileType="45637" CompNumb="72" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2022-04-01, 10:46:29" FileAge="1648827989168" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/Led_ejemplo.h" FileDate="2022-05-17, 12:17:16" FileAge="1652807836123" FileType="45637" CompNumb="38" />
+      <File Name="Generated_Code/GI2C1.h" FileDate="2022-05-21, 10:26:37" FileAge="1653146797557" FileType="45637" CompNumb="54" />
+      <File Name="Generated_Code/EI2C1.h" FileDate="2022-05-20, 20:19:06" FileAge="1653095946657" FileType="45637" CompNumb="65" />
+      <File Name="Generated_Code/Led_ejemplo.c" FileDate="2022-04-25, 16:24:09" FileAge="1650921849453" FileType="45637" CompNumb="38" />
+      <File Name="Generated_Code/GI2C1.c" FileDate="2022-05-21, 10:26:37" FileAge="1653146797563" FileType="45637" CompNumb="54" />
+      <File Name="Generated_Code/EI2C1.c" FileDate="2022-05-20, 20:19:06" FileAge="1653095946653" FileType="45637" CompNumb="65" />
+      <File Name="Sources/main.c" FileDate="2022-05-23, 15:10:28" FileAge="1653336628663" FileType="128" />
+      <File Name="Generated_Code/MCUC1config.h" FileDate="2022-05-20, 20:19:06" FileAge="1653095946673" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/PE_Timer.h" FileDate="2022-05-17, 12:17:15" FileAge="1652807835720" FileType="45637" />
+      <File Name="Generated_Code/LCD1.h" FileDate="2022-05-21, 10:28:04" FileAge="1653146884308" FileType="45637" CompNumb="72" />
+      <File Name="Generated_Code/PE_Timer.c" FileDate="2022-04-08, 18:56:04" FileAge="1649462164097" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>72</CodeGenReference>
+</CodeGenerationInfo>
